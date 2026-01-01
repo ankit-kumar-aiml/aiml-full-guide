@@ -1,4 +1,4 @@
-import { ProgressData, UserProgress, Phase } from '../types'
+import { UserProgress, Phase } from '../types'
 import { getPhases } from './dataLoader'
 
 /**
